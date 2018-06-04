@@ -1,3 +1,5 @@
+Deprecated, Elastic stack is more suited for analysis involving detailed data. Tryging to use Prometheus for monitoring and alerting.
+
 This project demonstrate the possibility of using Elastic Stack to monitoring sites.
 
 # Commands
